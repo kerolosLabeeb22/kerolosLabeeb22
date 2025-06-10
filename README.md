@@ -57,9 +57,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+</div>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNpM3IwdG4yN2g1bWl1czloOXp2MHNsd3oyYWgzZTJva3VxZW5yeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OXnY7MEDyBeE/giphy.gif"  />
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerolosLabeeb22/kerolosLabeeb22/output/pacman-contribution-graph-dark.svg">
